@@ -1,3 +1,4 @@
+FROM bitnami/git:latest
 FROM jenkins/jenkins:lts
 USER root
 
